@@ -24,7 +24,7 @@
     "prettier": "^3.1.1",
     "qrcode.react": "^3.1.0",
     "react": "18.2.0",
-    "react-dom": "latest",
+    "react-dom": "18.2.0",
     "react-hook-form": "^7.46.2",
     "react-redux": "^8.1.2",
     "redux": "latest",
@@ -33,7 +33,6 @@
     "remark-gfm": "^4.0.0",
     "remark-html": "^16.0.1",
     "remark-toc": "^9.0.0",
-    "tailwind": "^4.0.0",
     "webpack": "latest"
   },
   "devDependencies": {
